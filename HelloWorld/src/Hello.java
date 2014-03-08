@@ -5,6 +5,7 @@ public class Hello {
 		// TODO Auto-generated method stub
 			System.out.println("Hello world");
 		// testing local head 
+		// win and ssh test
 		
 	}
 
